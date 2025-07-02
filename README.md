@@ -11,10 +11,11 @@ Acesse o site hospedado pelo GitHub Pages:
 👉 WebbCrafters – Site da organização
 
 ## 🛠️ Tecnologias Utilizadas
-Linguagem	Porcentagem
-CSS	54,4%
-HTML	38,7%
-JavaScript	6,9%
+Linguagem	Porcentagem:
+
+- CSS	 54,4%
+- HTML	38,7%
+- JavaScript	6,9%
 
 ## 🖼️ Funcionalidades e Características
 - Layout responsivo e moderno
@@ -24,3 +25,4 @@ JavaScript	6,9%
 - Atração visual para engajar o visitante
 
 🚀 Como executar o projeto localmente
+git clone https://github.com/santarthur/WebbCrafters.git
